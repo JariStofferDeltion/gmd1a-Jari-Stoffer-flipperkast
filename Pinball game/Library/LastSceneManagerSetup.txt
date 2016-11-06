@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/PInball Machine.unity
+- path: Assets/Scenes/PinballPlayingfield.unity
   isLoaded: 1
   isActive: 1

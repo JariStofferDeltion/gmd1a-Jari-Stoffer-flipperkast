@@ -10,6 +10,6 @@ public class GameScore2 : MonoBehaviour
 
     void Update()
     {
-        scoreText.text = "Points:" + scoreGainUp; //de score word verhoogt bij de text Points:
+        scoreText.text = "Points:" + scoreGainUp; //de score word verhoogt bij de text Points://
     }
 }
